@@ -1,0 +1,10 @@
+Nectar,4,domaci
+Jana,10,strani
+Rauch,100,strani
+Fruvita,1,domaci
+Fresh&Co,17,strani
+Vino Zupa,1,domaci
+Duga Fruit,1,domaci
+Grab d.o.o,2,domaci
+Priroda DS,1,domaci
+Vesna sokovi,1,domaci
